@@ -1,5 +1,4 @@
-# cedar-ve
-## CedarV Driver for Mainline Kernel
+# CedarV Driver for Mainline Kernel
 
 drivers/staging/media/sunxi/Kconfig
 +
